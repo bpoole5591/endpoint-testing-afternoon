@@ -9,6 +9,9 @@
   "dependencies": {
     "body-parser": "^1.18.2",
     "cors": "^2.8.4",
-    "express": "^4.16.2"
-  }
+    "express": "^4.16.2",
+    "jest": "^22.2.1"
+  },
+  "repository": "https://github.com/bpoole5591/endpoint-testing-afternoon.git",
+  "license": "MIT"
 }
